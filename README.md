@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **java, cloud, react**
 
-- 📫 How to reach me **harshpaliwaldveloper@gmail.com**
+- 📫 How to reach me **harshpaliwaldeveloper@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
